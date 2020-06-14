@@ -5,4 +5,4 @@ This is the repository for research project that I did working as a Research Ass
 We used csv files which were several hundred MB in size but since most of it is confidential, I have put a small masked sample of all the data files.
 
 # Installing
-Code files are uploaded as Python .py files and Stata do files. No other tool is required to read the files.
+Code files are uploaded as Python .py files and Stata do files. No other tool is required.
